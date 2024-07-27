@@ -51,6 +51,7 @@ Exposure to computer system structure and networking:
 ![LC-22 Datapath](https://github.com/d-lee-te/CS-2200/blob/92adf85fc2799c4a5dda1c2119a70e27e80f6079/LC-22%20Datapath.png)
 
 Implemented datapath as shown above along with components shown above.
+
 3. Added and implemented interrupts from input devices
 4. Virtual memory system
 
@@ -83,6 +84,7 @@ Implemented datapath as shown above along with components shown above.
 - CPU scheduler invocation functions
 
 5. Networking - Modify transport layer of simulated network for additional reliability
+
 ![Transport Layer](https://github.com/d-lee-te/CS-2200/blob/2357f63f98f49448b1bd673ab8acf03cfc58463f/RTP%20Protocol.png)
 
 ### Debrief
