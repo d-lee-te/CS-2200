@@ -83,7 +83,7 @@ Implemented datapath as shown above along with components shown above.
 ![Transport Layer](https://github.com/d-lee-te/CS-2200/blob/2357f63f98f49448b1bd673ab8acf03cfc58463f/RTP%20Protocol.png)
 
 ### Debrief
-My favorite part of this class was probably working with the CPU scheduler and learning the algorithms. I didn't really find an extreme interest in any of the other material here, but it was good experience.
+My favorite part of this class was probably working with the CPU scheduler and learning how to implement the algorithms. I didn't really find an extreme interest in any of the other material here, but it was good experience.
 
 # Disclaimer
 As most of the course content belongs to either the College or the Professors, I am transcribing my work and assignments to record the course.
