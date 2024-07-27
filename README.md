@@ -48,6 +48,10 @@ Exposure to computer system structure and networking:
 
 1. LC-22 Barebones
 ![LC-22 Datapath](https://github.com/d-lee-te/CS-2200/blob/92adf85fc2799c4a5dda1c2119a70e27e80f6079/LC-22%20Datapath.png)
+Implemented datapath as shown above along with components shown above.
+2. Added and implemented interrupts from input devices
+3. Virtual memory system
+![Frame]()
 
 ### Debrief
 
