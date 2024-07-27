@@ -47,7 +47,7 @@ Exposure to computer system structure and networking:
 **Using Circuit Sim**
 
 1. LC-22 Barebones
-
+![LC-22 Datapath](https://github.com/d-lee-te/CS-2200/blob/92adf85fc2799c4a5dda1c2119a70e27e80f6079/LC-22%20Datapath.png)
 
 ### Debrief
 
