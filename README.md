@@ -52,8 +52,8 @@ Exposure to computer system structure and networking:
 
 Implemented datapath as shown above along with components shown above.
 
-3. Added and implemented interrupts from input devices
-4. Virtual memory system
+2. Interrupts - Added and implemented interrupts from input devices
+3. Virtual memory system
 
 ![Frame](https://github.com/d-lee-te/CS-2200/blob/93e7df87fa0c6fe1289931e7262b902e734d3373/Frame.png)
 
