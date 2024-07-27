@@ -51,7 +51,35 @@ Exposure to computer system structure and networking:
 Implemented datapath as shown above along with components shown above.
 2. Added and implemented interrupts from input devices
 3. Virtual memory system
-![Frame]()
+![Frame](https://github.com/d-lee-te/CS-2200/blob/93e7df87fa0c6fe1289931e7262b902e734d3373/Frame.png)
+- Simulator simulated a system w/ 20-bit byte-addressable physical memory
+  - System had 24-bit virtual address sapce
+  - Memory was divided into 16KB pages
+
+**Implemented**
+- Address splitting
+- Frame table setup/initialization
+- Process setup/initialization
+- Context switch function for PTBR (page table base register)
+- Memory access function
+- Page fault function
+- Free frame function
+- Swap page function
+- Process cleanup function
+- Random replacement algorithm
+- Clock Sweep Algorithm (page replacement algorithm)
+- FIFO (First in first out) algorithm (page replacement algorithm)
+
+4. Process scheduler
+- CPU scheduling algorithms
+  - FCFS (First come, first serve)
+  - Round-Robin
+  - PS (Preemptive Priority)
+- CPU schedule process functions
+- CPU scheduler invocation functions
+
+5. Networking - Modify transport layer of simulated network for additional reliability
+![Transport Layer]()
 
 ### Debrief
 
